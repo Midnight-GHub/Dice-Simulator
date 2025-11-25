@@ -8,3 +8,6 @@ __pycache__/
 # Test files
 test.py
 test2.py
+
+# User config
+data/config.json
